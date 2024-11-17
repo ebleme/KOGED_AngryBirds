@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Angry Birds.sln"
+    "dotnet.defaultSolution": "KOGED_AngryBirds.sln"
 }
